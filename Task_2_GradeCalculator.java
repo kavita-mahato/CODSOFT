@@ -7,7 +7,7 @@ public class Task_2_GradeCalculator {
         System.out.println("STUDENT GRADE CALCULATOR");
         System.out.println("-----------------------");
         
-        // Input number of subjects
+        // Input number of subjects 
         System.out.print("Enter the number of subjects: ");
         int numSubjects = scanner.nextInt();
         
